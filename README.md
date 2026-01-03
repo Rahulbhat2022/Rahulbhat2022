@@ -1,8 +1,7 @@
 #  About Me:
 Master’s student in **Data Science** with a strong **applied mathematics** focus, specializing in **probabilistic modeling, statistical learning, stochastic processes, and optimization**.
 
-I work at the intersection of **mathematics, data, and real-world systems**, with particular interest in **climate, energy, and risk-aware decision making**. My approach emphasizes **explicit assumptions, uncertainty quantification, and robustness**, rather than black-box prediction.
-
+My haven lies at the crossroads of mathematics, data, and real-world systems, with particular interest in data-driven decision making, probabilistic modeling, and risk-aware analytics. My approach emphasizes explicit assumptions, uncertainty quantification, and robustness, rather than black-box prediction.
 
 
 ---
