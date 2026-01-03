@@ -17,6 +17,9 @@ I work at the intersection of **mathematics, data, and real-world systems**, wit
 - Clear communication of assumptions, limitations, and risk
 
 ---
+![Uncertainty](https://img.shields.io/badge/Focus-Uncertainty%20%26%20Risk-36454F?style=for-the-badge)
+![Math](https://img.shields.io/badge/Core-Applied%20Mathematics-4B0082?style=for-the-badge)
+
 
 ##  Climate & Energy Focus:
 - Probabilistic forecasting of climate- and weather-driven systems  
@@ -51,8 +54,6 @@ I work at the intersection of **mathematics, data, and real-world systems**, wit
 ![Linux](https://img.shields.io/badge/linux-%23000000.svg?style=for-the-badge&logo=linux&logoColor=white)
 
 ---
-![Climate](https://img.shields.io/badge/Focus-Machine%20learning%20%-2E8B57?style=for-the-badge)
-![Math](https://img.shields.io/badge/Core-Applied%20Mathematics-4B0082?style=for-the-badge)
 
 ### ✍️ Modeling Philosophy
 *“Nature is pleased with simplicity.”* — **Isaac Newton**
