@@ -55,7 +55,7 @@ I work at the intersection of **mathematics, data, and real-world systems**, wit
 ### ✍️ Modeling Philosophy
 *“Nature is pleased with simplicity.”* — **Isaac Newton**
 
-I aim to build models that are **mathematically grounded, uncertainty-aware, and decision-relevant**, especially in climate and energy contexts.
+I aim to build models that are **mathematically grounded, uncertainty-aware, and decision-relevant**
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Rahulbhat2022&icon=0&color=0)](https://visitcount.itsvg.in)
