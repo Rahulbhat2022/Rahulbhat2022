@@ -6,8 +6,6 @@ I work at the intersection of **mathematics, data, and real-world systems**, wit
 > *“Everything should be made as simple as possible, but not simpler.”*  
 > — **Albert Einstein**
 
-I am especially interested in problems involving **climate variability, energy demand, emissions modeling, and environmental risk**, where uncertainty and trade-offs are central to decision-making.
-
 ---
 
 ##  Core Strengths:
