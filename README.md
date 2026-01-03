@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 Master’s student in **Data Science** with a strong **applied mathematics** focus, specializing in **probabilistic modeling, statistical learning, stochastic processes, and optimization**.
 
 I work at the intersection of **mathematics, data, and real-world systems**, with particular interest in **climate, energy, and risk-aware decision making**. My approach emphasizes **explicit assumptions, uncertainty quantification, and robustness**, rather than black-box prediction.
@@ -10,7 +10,7 @@ I am especially interested in problems involving **climate variability, energy d
 
 ---
 
-## 🧠 Core Strengths:
+##  Core Strengths:
 - Mathematical problem formulation under uncertainty  
 - Statistical & probabilistic modeling (Monte Carlo, Bayesian methods, stochastic processes)  
 - Time-series analysis for climate, energy, and dynamic systems  
@@ -20,7 +20,7 @@ I am especially interested in problems involving **climate variability, energy d
 
 ---
 
-## 🌍 Climate & Energy Focus:
+##  Climate & Energy Focus:
 - Probabilistic forecasting of climate- and weather-driven systems  
 - Modeling uncertainty in energy demand, prices, and emissions  
 - Simulation-based analysis of environmental and dynamic systems  
@@ -29,14 +29,14 @@ I am especially interested in problems involving **climate variability, energy d
 
 ---
 
-## 🌐 Socials:
+##  Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rahul_bhat04)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rahul-bhat)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Bhat04rahul@gmail.com)
 
 ---
 
-# 💻 Tech Stack:
+#  Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -51,13 +51,6 @@ I am especially interested in problems involving **climate variability, energy d
 ![Plotly](https://img.shields.io/badge/plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/linux-%23000000.svg?style=for-the-badge&logo=linux&logoColor=white)
-
----
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Rahulbhat2022&theme=dark&hide_border=false)
-![](https://nirzak-streak-stats.vercel.app/?user=Rahulbhat2022&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rahulbhat2022&theme=dark&layout=compact)
 
 ---
 
