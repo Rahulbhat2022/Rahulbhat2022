@@ -3,8 +3,7 @@ Master’s student in **Data Science** with a strong **applied mathematics** foc
 
 I work at the intersection of **mathematics, data, and real-world systems**, with particular interest in **climate, energy, and risk-aware decision making**. My approach emphasizes **explicit assumptions, uncertainty quantification, and robustness**, rather than black-box prediction.
 
-> *“Everything should be made as simple as possible, but not simpler.”*  
-> — **Albert Einstein**
+
 
 ---
 
@@ -29,6 +28,15 @@ I work at the intersection of **mathematics, data, and real-world systems**, wit
 - Decision-oriented modeling for sustainability and policy contexts  
 
 ---
+## Ethics
+- Understanding data ethics, privacy, and governance in real-world applications
+- Awareness of legal frameworks and regulations affecting data use (GDPR, AI law)
+- Sustainable IT practices and responsible technology deployment
+- Integrating ethical considerations into modeling: fairness, transparency, accountability
+- Evaluating societal and environmental impacts of predictive models and decisions
+  
+*“Concern for man himself and his fate must always form the chief interest of all technical endeavors… Never forget this in the midst of your diagrams and equations.”*
+ — **Albert Einstein**
 
 #  Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
