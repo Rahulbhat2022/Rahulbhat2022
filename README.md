@@ -51,6 +51,8 @@ I work at the intersection of **mathematics, data, and real-world systems**, wit
 ![Linux](https://img.shields.io/badge/linux-%23000000.svg?style=for-the-badge&logo=linux&logoColor=white)
 
 ---
+![Climate](https://img.shields.io/badge/Focus-Climate%20%26%20Energy-2E8B57?style=for-the-badge)
+![Math](https://img.shields.io/badge/Core-Applied%20Mathematics-4B0082?style=for-the-badge)
 
 ### ✍️ Modeling Philosophy
 *“Nature is pleased with simplicity.”* — **Isaac Newton**
